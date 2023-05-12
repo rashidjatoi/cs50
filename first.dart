@@ -9,4 +9,12 @@ void main() {
 
 //   added a new line to try the pull request
   print("trying pull request yooo kevin");
+
+  // created new function
+  void newFunct() {
+    print("new function");
+  }
+
+  // called new function
+  newFunct();
 }
